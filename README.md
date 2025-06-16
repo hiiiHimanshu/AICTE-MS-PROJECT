@@ -48,7 +48,7 @@ We used a **publicly available dataset** that includes thousands of online trans
 ## 🧰 Tech Stack
 
 - Python 3.10+
-- Jupyter Notebook
+- GOOGLE COLLAB Notebook
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
