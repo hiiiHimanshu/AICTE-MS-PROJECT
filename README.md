@@ -1,6 +1,20 @@
 data set link:- https://drive.google.com/file/d/127JqP3WGjBVihR-ZcUR86T3wwy3_g63v/view
 
 # 💳 Online Payment Fraud Detection using Machine Learning in Python
+![image](https://github.com/user-attachments/assets/46bf9cfb-7fb7-45ae-84ae-27f723db695a)
+
+Model Training
+As the prediction is a classification problem so the models we will be using are :
+
+LogisticRegression :  It predicts that the probability of a given data belongs to the particular category or not.
+XGBClassifier : It refers to Gradient Boosted decision trees. In this algorithm, decision trees are created in sequential form and weights are assigned to all the independent variables which are then fed into the decision tree which predicts results.
+SVC : SVC is used to find a hyperplane in an N-dimensional space that distinctly classifies the data points. Then it gives the output according the most nearby element.
+RandomForestClassifier : Random forest classifier creates a set of decision trees from a randomly selected subset of the training set. Then, it collects the votes from different decision trees to decide the final prediction.
+
+![image](https://github.com/user-attachments/assets/781076f2-11c2-496f-887b-867b3ddff319)
+
+
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
@@ -114,4 +128,18 @@ Feel free to check the issues page.
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+![image](https://github.com/user-attachments/assets/5644ef8f-d049-49a1-b9b5-2b2317f2437d)
+
+![image](https://github.com/user-attachments/assets/c8f0e5d0-faad-442e-ba96-f94890c378f4)
+
+![image](https://github.com/user-attachments/assets/3f5b9189-95d6-45d3-b970-832d5460257a)
+
+![image](https://github.com/user-attachments/assets/d5f0668a-11fb-41fb-8ac5-759b56f1a7f1)
+
+
+
+
+
+
 
